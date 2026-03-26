@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "check",
+  "base_artist": "bbno$",
+  "createdAt": "2026-03-26T20:09:48.593636Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Check Yes Or No",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Check_Yes_Or_No_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Check Yes Or No (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Check_Yes_Or_No_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Check",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_Check_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Check",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_Check_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Break You Off (Dub\u0000Sound Check at Bogart's Cincinnati, OH 2003)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/05_Break_You_Off_(Dub\u0000Sound_Check_at_Bogart's_Cincinnati,_OH_2003)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Check It Out",
+      "artist": "Nicki Minaj feat. will.i.am",
+      "has_synced": true,
+      "path": "select/06_Check_It_Out_Nicki_Minaj_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Check It Out (feat. will.i.am)",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/07_Check_It_Out_(feat._will.i.am)_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Check mal die Rhetorik ab",
+      "artist": "Dendemann",
+      "has_synced": true,
+      "path": "select/08_Check_mal_die_Rhetorik_ab_Dendemann.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Check Out Time",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/09_Check_Out_Time_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Check it Out",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/10_Check_it_Out_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Check the Rhime",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/11_Check_the_Rhime_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Woo Haa!! Got You All in Check",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/12_Woo_Haa!!_Got_You_All_in_Check_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "WOOHAA!! Got You All In Check",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/13_WOOHAA!!_Got_You_All_In_Check_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Check",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/14_Check_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Go Check",
+      "artist": "Ms. John Soda",
+      "has_synced": false,
+      "path": "select/15_Go_Check_Ms._John_Soda.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Check (Let's Ride)",
+      "artist": "Lil' Flip",
+      "has_synced": false,
+      "path": "select/16_Check_(Let's_Ride)_Lil'_Flip.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Reality Check",
+      "artist": "Schneider TM",
+      "has_synced": false,
+      "path": "select/17_Reality_Check_Schneider_TM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "check",
+      "artist": "bbno$",
+      "has_synced": false,
+      "path": "select/pl_01_check_bbno$.txt"
+    }
+  ]
+}
